@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins');
 
-@media screen(max-width: auto){
+@media screen and (max-width: auto){
 * {
     margin: 0;
     padding: 0;
