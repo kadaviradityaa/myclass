@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins');
 
+@media screen(max-width: auto){
 * {
     margin: 0;
     padding: 0;
@@ -82,6 +83,7 @@ body {
     font-weight: 400;
     margin-left: 20px;
     transition: .3s;
+}
 }
 
 .navbar a:hover,
